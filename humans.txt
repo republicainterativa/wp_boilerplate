@@ -1,0 +1,35 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+
+/* TEAM */
+Web Designer:
+    Site:
+    Agency:
+    Agency Site:
+    Twitter:
+    Location:
+
+Front-End:
+    Site:
+    Agency:
+    Agency Site:
+    Twitter:
+    Location:
+
+Back-End:
+    Site:
+    Agency:
+    Agency Site:
+    Twitter:
+    Location:
+
+
+/* SITE */
+    Standards: HTML5, CSS3
+    Components:
+    Frameworks:
+    Preprocessors: Sass (with Compass)
+    Software:
+    Content Management System: WordPress
+    Version Control: Git
